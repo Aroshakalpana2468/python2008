@@ -18,6 +18,9 @@ START_MESSAGE_BUTTONS = [
     [
         InlineKeyboardButton('GROUP2', url= 'https://t.me/slfreefire23'),
         InlineKeyboardButton('GROUP3', url= 'https://t.me/SL_FREE_FIRE')   
+    ],
+    [
+        InlineKeyboardButton('MY MASTER', url= 'BUDDY3_FF')
     ]
 
 ]
