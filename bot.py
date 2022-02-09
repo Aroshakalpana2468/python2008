@@ -76,7 +76,7 @@ def command1(bot, message):
     message.reply_text("This is test bot's help section.")
 
 #welcomebot
-GROUP = "ak_live_stream_2"
+GROUP = "myhomebots"
 WELCOME_MESSAGE = "Hello, welcome to group chat!"
 
 @bot.on_message(filters.chat(GROUP) & filters.new_chat_members)
